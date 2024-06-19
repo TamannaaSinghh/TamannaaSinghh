@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tamanna Singh</h1>
+![wondrwoman gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/23185bf6-20cb-464c-b240-fc2f7faca3a1)<h1 align="center">Hi 👋, I'm Tamanna Singh</h1>
 <h3 align="center">A passionate Frontend Developer and Tech Enthusiast from India</h3>
+![darkside gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/fd518c59-54fe-4452-b4b7-8089118d8514)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamannaasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="tamannaasinghh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamannaasinghh" alt="tamannaasinghh" /></a> </p>
+<p align="left"> <a href="h[Uploading sassy-kid-peeping-reaction-abj2dmbm570028b8.webp…]()
+ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamannaasinghh" alt="tamannaasinghh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tamannaasinghh" target="blank"><img src="https://img.shields.io/twitter/follow/tamannaasinghh?logo=twitter&style=for-the-badge" alt="tamannaasinghh" /></a> </p>
 
@@ -20,6 +24,8 @@
 - 📫 How to reach me **singhtamannaa21@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you can find me at the gym, watching dramatic movies and plays, or anchoring events. I also enjoy clay modeling and writing scripts. PLus i Love burgers and Ice-Creams soo muchh.😋🎭💪**
+- ![wondrwoman gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/a3b43e31-0477-40f0-be8e-302096976302)
+
 -https://gifdb.com/coding 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamannaasinghh&show_icons=true&locale=en" alt="tamannaasinghh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamannaasinghh&" alt="tamannaasinghh" /></p>
+![panda gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/b251f87a-4f04-42dc-9df9-49e2a98687e8)
+
