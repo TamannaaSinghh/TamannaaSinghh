@@ -12,9 +12,9 @@ ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile
 
 <p align="left"> <a href="https://twitter.com/tamannaasinghh" target="blank"><img src="https://img.shields.io/twitter/follow/tamannaasinghh?logo=twitter&style=for-the-badge" alt="tamannaasinghh" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Full Stack Development and related projects.**
 
-- 🌱 I’m currently learning **Full Stack Development and DSA in C++ and also having my hands on several other tech stacks.**
+- 🌱 I’m currently learning **Full Stack Development and DSA in C++ and also testing my hands on several other tech stacks.**
 
 - 👯 I’m looking to collaborate on **Innovative project ideas and solutions.**
 
@@ -26,14 +26,16 @@ ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile
 
 - ⚡ Fun fact **When I'm not coding, you can find me at the gym, watching dramatic movies and plays, or anchoring events. I also enjoy clay modeling and writing scripts. Plus I Love burgers and Ice-Creams soo muchh.😋🎭💪**
 - ![wondrwoman gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/a3b43e31-0477-40f0-be8e-302096976302)
+  <hr>
+<H3>My Education and Experience</H3>
+<p>I am currently pursuing my B.Tech in Computer Science Engineering at ADGIPS affiliated to Guru Gobind Singh Indraprastha University,<br> New Delhi, India</p>
 
--https://gifdb.com/coding 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me at :</h3>
 <p align="left">
 <a href="https://twitter.com/tamannaasinghh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamannaasinghh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tamanna singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna singh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tamannaa.singhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tamannaa.singhh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamanna-singh-760792284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/https://www.instagram.com/tamannaa.singhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tamannaa.singhh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,3 +49,5 @@ ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile
 
 
 ![panda gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/8233f464-e378-48eb-b8df-e3ccb60f9fc8)
+
+<p> I'm always excited to meet new people and explore new opportunities. If you're interested in collaborating, discussing ideas, or just want to say hi, feel free to reach out! </p>
