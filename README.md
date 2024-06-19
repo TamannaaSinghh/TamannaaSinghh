@@ -11,6 +11,7 @@
 ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamannaasinghh" alt="tamannaasinghh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tamannaasinghh" target="blank"><img src="https://img.shields.io/twitter/follow/tamannaasinghh?logo=twitter&style=for-the-badge" alt="tamannaasinghh" /></a> </p>
+<h3>Get to know me more..</h3>
 
 - 🔭 I’m currently working on **Full Stack Development and related projects.**
 
