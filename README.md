@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamanna Singh</h1>
-<h3 align="center">A passionate Frontend Developer and Tech Enthusiast from India</h3>
-
-
-
-![darkside gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/2c0a72a9-a55f-46c4-8a05-3305700fb8ac)
+<h3 align="center">A passionate Web Developer and Tech Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamannaasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="tamannaasinghh" /> </p>
 
