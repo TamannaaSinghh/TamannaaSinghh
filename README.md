@@ -19,7 +19,7 @@ ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile
 
 - 💬 Ask me about **Frontend Development and public speaking**
 
-- 📫 How to reach me **singhtamannaa21@gmail.com**
+- 📫 How to reach me **tamannaasinghh1214@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you can find me at the gym, watching dramatic movies and plays, or anchoring events. I also enjoy clay modeling and writing scripts. Plus I Love burgers and Ice-Creams soo muchh.😋🎭💪**
   ![wondrwoman gif](https://github.com/TamannaaSinghh/TamannaaSinghh/assets/158739752/a3b43e31-0477-40f0-be8e-302096976302)
